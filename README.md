@@ -1,5 +1,8 @@
 # Генератор Документов на Бланке (ГОСТ Р 7.0.97–2025)
 
+[![Release](https://img.shields.io/github/v/release/kostyk348/document-generator?sort=semver&color=blue)](https://github.com/kostyk348/document-generator/releases)
+[![Last commit](https://img.shields.io/github/last-commit/kostyk348/document-generator?branch=main)](https://github.com/kostyk348/document-generator/commits/main)
+
 Офлайн-генератор официальных документов: исходящие письма, служебные записки и бланки по ГОСТ, с автозаполнением реквизитов, склонением ФИО и должностей, единым реестром исходящих и экспортом в PDF/.eml/.doc.
 
 Работает в двух режимах:
